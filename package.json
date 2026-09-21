@@ -1,0 +1,15 @@
+{
+  "name": "campuslands-cli-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Estiben Ixen",
+  "license": "ISC",
+  "type": "module",
+  "start": "node src/index.js",
+  "dev": "node --watch src/index.js"
+}

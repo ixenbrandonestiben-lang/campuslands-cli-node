@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "carlos Morales",
+    "stack": "node.js",
+    "creadoEn": "21/9/2026"
+  },
+  {
+    "id": 2,
+    "nombre": "Bladimir Mendez",
+    "stack": "node.js",
+    "creadoEn": "21/9/2026"
+  },
+  {
+    "id": 3,
+    "nombre": "Rosita  Mendez",
+    "stack": "node.js",
+    "creadoEn": "21/9/2026"
+  },
+  {
+    "id": 4,
+    "nombre": "Estiben",
+    "stack": "node.js",
+    "creadoEn": "21/9/2026"
+  },
+  {
+    "id": 5,
+    "nombre": "estiben",
+    "stack": "Node.js",
+    "creadoEn": "21/9/2026"
+  }
+]
